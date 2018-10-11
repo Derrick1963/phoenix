@@ -1,5 +1,5 @@
 /**
- * Phoenix Channels JavaScript client
+ * Derrick1963 Channels JavaScript client
  *
  * ## Socket Connection
  *
